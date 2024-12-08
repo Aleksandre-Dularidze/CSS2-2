@@ -142,7 +142,6 @@ main {
 
 #boxOverview {
 	display: inline-block;
-	color: #E9D7FE;
 	font-size: 16px;
 	line-height: 24px;
 	margin-right: 32px;
@@ -150,7 +149,6 @@ main {
 
 #boxFeatures {
 	display: inline-block;
-	color: #E9D7FE;
 	font-size: 16px;
 	line-height: 24px;
 	margin-right: 32px;
@@ -158,7 +156,6 @@ main {
 
 #boxPricing {
 	display: inline-block;
-	color: #E9D7FE;
 	font-size: 16px;
 	line-height: 24px;
 	margin-right: 32px;
@@ -166,7 +163,6 @@ main {
 
 #boxCareers {
 	display: inline-block;
-	color: #E9D7FE;
 	font-size: 16px;
 	line-height: 24px;
 	margin-right: 32px;
@@ -174,7 +170,6 @@ main {
 
 #boxHelp {
 	display: inline-block;
-	color: #E9D7FE;
 	font-size: 16px;
 	line-height: 24px;
 	margin-right: 32px;
@@ -182,7 +177,6 @@ main {
 
 #boxPrivacy {
 	display: inline-block;
-	color: #E9D7FE;
 	font-size: 16px;
 	line-height: 24px;
 }
@@ -198,4 +192,22 @@ main {
 	line-height: 24px;
 	color: #D6BBFB;
 	margin: 48px 320px 52px 192px;
+}
+#linkOne {
+	color: #E9D7FE;
+}
+#linkTwo {
+	color: #E9D7FE;
+}
+#linkThree {
+	color: #E9D7FE;
+}
+#linkFour {
+	color: #E9D7FE;
+}
+#linkFive {
+	color: #E9D7FE;
+}
+#linkSix {
+	color: #E9D7FE;
 }
