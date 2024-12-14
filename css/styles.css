@@ -1,0 +1,232 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+
+header {
+	max-width: 1140px;
+	width: 100%;
+	height: 72px;
+	margin: 0 auto;
+	padding: 12px 80px;
+}
+
+.headerDiv {
+	max-width: 980px;
+	width: 100%;
+	height: 48px;
+	margin: 0 auto;
+
+}
+
+.logoDiv {
+	display: inline-block;
+	max-width: 173px;
+	width: 100%;
+	height: 48px;
+	padding: 13px;
+	vertical-align: middle;
+}
+
+.logoDiv img {
+	max-width: 147px;
+	width: 100%;
+	height: 21px;
+
+}
+
+nav {
+	max-width: 690px;
+	width: 100%;
+	height: 22px;
+	display: inline-block;
+	vertical-align: middle;
+	text-align: center;
+}
+
+nav a {
+	color: #323232;
+	font-size: 18px;
+	padding-right: 20px;
+}
+
+a {
+	text-decoration: none;
+}
+
+button {
+	text-decoration: none;
+}
+
+.navLink {
+	color: #FF5DA3;
+}
+
+.buttonDiv {
+	display: inline-block;
+	max-width: 105px;
+	width: 100%;
+	height: 35px;
+	vertical-align: middle;
+}
+
+.buttonDiv button {
+	font-size: 14px;
+	padding: 8px 16px;
+	background-color: #00AC25;
+	border-radius: 8px;
+	border: 1px solid #00AC25;
+}
+
+.buttonDiv button a {
+	color: #fff;
+}
+
+
+.fillerDiv {
+	width: 100%;
+	height: 179px;
+}
+
+
+
+.mainDiv {
+	max-width: 1316px;
+	width: 100%;
+	height: 543px;
+	margin: 0 auto;
+}
+
+.titleDiv {
+	max-width: 1100px;
+	width: 100%;
+	height: 174px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 24px;
+}
+
+.titleDiv span {
+	font-size: 72px;
+	text-align: center;
+}
+
+.colorSpan {
+	color: #FF5DA3;
+}
+
+.pDiv {
+	max-width: 1316px;
+	width: 100%;
+	height: 64px;
+	text-align: center;
+	margin-bottom: 24px;
+}
+
+.pDiv span {
+	font-size: 24px;
+	line-height: 32px;
+}
+
+.enjoyDiv {
+	max-width: 1316px;
+	width: 100%;
+	height: 59px;
+	font-size: 48px;
+	text-align: center;
+	margin-bottom: 24px;
+}
+
+.textDiv {
+	max-width: 716px;
+	width: 100%;
+	height: 96px;
+	color: #6941C6;
+	font-size: 24px;
+	text-align: center;
+	margin: 0 auto;
+	margin-bottom: 24px;
+	line-height: 32px;
+}
+
+.becomeDiv {
+	max-width: 233px;
+	width: 100%;
+	height: 54px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.becomeDiv button {
+	padding: 16px 24px;
+	font-size: 18px;
+	border-radius: 8px;
+	border: 1px solid #00AC25;
+	background-color: #00AC25;
+}
+
+
+.becomeDiv button a {
+	color: #fff;
+}
+
+.justFiller {
+	width: 100%;
+	height: 579px;
+}
+
+footer {
+	max-width: 100%;
+	height: 128px;
+	background-color: #53389E;
+	padding: 48px 0px;
+}
+
+.footerDiv {
+	max-width: 1216px;
+	width: 100%;
+	height: 32px;
+	margin: 0 auto;
+}
+
+.untitledDiv {
+	max-width: 160px;
+	width: 100%;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.untitledDiv img {
+	max-width: 142px;
+	width: 100%;
+	height: 32px;
+}
+
+.footerMenu {
+	display: inline-block;
+	vertical-align: middle;
+	max-width: 896px;
+	width: 100%;
+	height: 24px;
+	text-align: center;
+}
+
+.footerMenu a {
+	font-size: 16px;
+	color: #E9D7FE;
+	padding-left: 32px;
+}
+
+.lastDiv {
+	display: inline-block;
+	max-width: 150px;
+	width: 100%;
+	vertical-align: middle;
+	color: #D6BBFB;
+	font-size: 16px;
+}
